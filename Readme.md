@@ -69,3 +69,7 @@
 
 ### Medical 
 
+
+### Self-Supervised Learning
+
+* [A simple framework for contrastive learning of visual representations (SimCLR)](https://minyoungxi.tistory.com/82)
