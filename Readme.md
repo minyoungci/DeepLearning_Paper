@@ -22,6 +22,10 @@
   * [이제부터 진짜다 !](https://velog.io/@minyoungxi/YOLO-v4-%EC%9D%B4%EC%A0%9C%EB%B6%80%ED%84%B0-%EC%A7%84%EC%A7%9C%EB%8B%A4-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-part1)
   * [성능을 향상시켜보자!](https://velog.io/@minyoungxi/YOLO-v4-%EC%84%B1%EB%8A%A5%EC%9D%84-%ED%96%A5%EC%83%81%EC%8B%9C%EC%BC%9C%EB%B3%B4%EC%9E%90-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-part2)
   * Paper : YOLOv4: [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://arxiv.org/abs/2004.10934)
+ 
+* SAM
+  * [싹 다 segmentation 해버려! ](https://minyoungxi.tistory.com/91)
+  * Paper : [Segment Anything](https://arxiv.org/abs/2304.02643) 
    
    
 
