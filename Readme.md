@@ -25,10 +25,19 @@
  
 * SAM
   * [싹 다 segmentation 해버려! ](https://minyoungxi.tistory.com/91)
-  * Paper : [Segment Anything](https://arxiv.org/abs/2304.02643) 
-   
-   
+  * Paper : [Segment Anything](https://arxiv.org/abs/2304.02643)
 
+* MobileNet v1
+  * [Mobilenetv1](https://publish.obsidian.md/minyoungxi/Paper/Basic/Mobilenet/MobileNets+-+Efficient+Convolutional+Neural+Networks+for+Mobile+Vision+Applications)
+ 
+* MobileNet v2
+  * [Mobilenetv2](https://publish.obsidian.md/minyoungxi/Paper/Basic/Mobilenet/MobileNetV2+-+Inverted+Residuals+and+Linear+Bottlenecks)
+
+* MobileNet v3
+  * [Mobilenetv3](https://publish.obsidian.md/minyoungxi/Paper/Basic/Mobilenet/MobileNetV3)
+ 
+* ResNet
+  * [ResNet](https://publish.obsidian.md/minyoungxi/Paper/Basic/ResNet/ResNet+-+Deep+Residual+Learning+for+Image+Recognition)
 
 * Vision Transformer
   * [어텐션을 컴퓨터 비전에? - part1](https://minyoungxi.tistory.com/51)
