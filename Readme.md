@@ -82,6 +82,8 @@
 
 ### Medical 
 
+* [Transformers in Medical Image Analysis - A Review](https://publish.obsidian.md/minyoungxi/Paper/medical/Transformers+in+Medical+Image+Analysis+-+A+Review)
+
 
 ### Self-Supervised Learning
 
