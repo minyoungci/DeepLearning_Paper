@@ -38,6 +38,9 @@
  
 * ResNet
   * [ResNet](https://publish.obsidian.md/minyoungxi/Paper/Basic/ResNet/ResNet+-+Deep+Residual+Learning+for+Image+Recognition)
+ 
+
+### Transformer
 
 * Vision Transformer
   * [어텐션을 컴퓨터 비전에? - part1](https://minyoungxi.tistory.com/51)
@@ -47,6 +50,9 @@
 * Swin Transformer
   * [ViT를 개선해보자](https://minyoungxi.tistory.com/56)
   * Paper : [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)
+ 
+* Survey - Sparse Attention
+   * [Sparse한 attention](https://publish.obsidian.md/minyoungxi/Paper/Transformer/survey/Sparse+Attention)
 
 ### eXplainable Artificial Intelligence
 
