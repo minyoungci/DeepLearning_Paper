@@ -38,6 +38,8 @@
  
 * ResNet
   * [ResNet](https://publish.obsidian.md/minyoungxi/Paper/Basic/ResNet/ResNet+-+Deep+Residual+Learning+for+Image+Recognition)
+  * [WideResNet](https://publish.obsidian.md/minyoungxi/Paper/Basic/ResNet/Wide+Residual+Networks)
+  * [Aggregated Residual Transformations for Deep Neural Networks](https://publish.obsidian.md/minyoungxi/Paper/Basic/ResNet/Aggregated+Residual+Transformations+for+Deep+Neural+Networks)
  
 
 ### Transformer
