@@ -51,6 +51,7 @@
 
 * Swin Transformer
   * [ViT를 개선해보자](https://minyoungxi.tistory.com/56)
+  * [Swin Transformer 리뷰](https://publish.obsidian.md/minyoungxi/Paper/Transformer/Swin+transformer+-+Hierarchical+vision+transformer+using+shifted+windows)
   * Paper : [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)
  
 * Survey - Sparse Attention
