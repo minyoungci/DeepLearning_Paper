@@ -56,6 +56,8 @@
  
 * Survey - Sparse Attention
    * [Sparse한 attention](https://publish.obsidian.md/minyoungxi/Paper/Transformer/survey/Sparse+Attention)
+ 
+* [BERT - 파인튜닝이 젤 중요해!!](https://publish.obsidian.md/minyoungxi/Paper/Transformer/NLP/BERT+-+Pre-training+of+Deep+Bidirectional+Transformers+for+Language+Understanding) 
 
 ### eXplainable Artificial Intelligence
 
