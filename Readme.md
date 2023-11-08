@@ -48,6 +48,9 @@
   * [어텐션을 컴퓨터 비전에? - part1](https://minyoungxi.tistory.com/51)
   * [어텐션을 컴퓨터 비전에? - part2](https://minyoungxi.tistory.com/52)
   * Paper : [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
+ 
+* Efficient ViT
+  * [EfficientViT](https://publish.obsidian.md/minyoungxi/Paper/Transformer/Vision+Transformer/EfficientViT+-+Memory+Efficient+Vision+Transformer+with+Cascaded+Group+Attention)
 
 * Swin Transformer
   * [ViT를 개선해보자](https://minyoungxi.tistory.com/56)
