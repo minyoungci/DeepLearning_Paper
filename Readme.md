@@ -100,6 +100,11 @@
 
 * [Swin UNETR](https://publish.obsidian.md/minyoungxi/Paper/medical/segmentation/Swin+UNETR+-+Swin+Transformers+for+Semantic+Segmentation+of+Brain+Tumors+in+MRI+Images)
 
+* [Towards Expert-Level Medical Question Answering with Large Language Models](https://minyoungxi.tistory.com/98)
+     * [Med-PaLM2](https://publish.obsidian.md/minyoungxi/Paper/medical/LLM/Towards+Expert-Level+Medical+Question+Answering+with+Large+Language+Models)
+* [Large Language Models Encode Clinical Knowledge](https://minyoungxi.tistory.com/97)
+     * [Med-PaLm](https://publish.obsidian.md/minyoungxi/Paper/medical/LLM/Large+Language+Models+Encode+Clinical+Knowledge)
+
 
 ### Self-Supervised Learning
 
