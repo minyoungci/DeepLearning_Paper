@@ -104,6 +104,8 @@
      * [Med-PaLM2](https://publish.obsidian.md/minyoungxi/Paper/medical/LLM/Towards+Expert-Level+Medical+Question+Answering+with+Large+Language+Models)
 * [Large Language Models Encode Clinical Knowledge](https://minyoungxi.tistory.com/97)
      * [Med-PaLm](https://publish.obsidian.md/minyoungxi/Paper/medical/LLM/Large+Language+Models+Encode+Clinical+Knowledge)
+ 
+* [Increased Risks of Open-Angle Glaucoma in Untreated Hypertension](https://publish.obsidian.md/minyoungxi/Paper/medical/%EC%97%B0%EA%B5%AC%EC%8B%A4/Increased+Risks+of+Open-Angle+Glaucoma+in+Untreated+Hypertension+1)
 
 
 ### Self-Supervised Learning
