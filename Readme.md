@@ -107,6 +107,8 @@
  
 * [Increased Risks of Open-Angle Glaucoma in Untreated Hypertension](https://publish.obsidian.md/minyoungxi/Paper/medical/%EC%97%B0%EA%B5%AC%EC%8B%A4/Increased+Risks+of+Open-Angle+Glaucoma+in+Untreated+Hypertension+1)
 
+* [A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics - 헬스케어에 사용되는 LLM들을 조사해보자](https://minyoungxi.tistory.com/102)
+
 
 ### Self-Supervised Learning
 
