@@ -44,6 +44,9 @@
 
 ### Transformer
 
+* Transformer
+  * [Transformer를 모르면 취업을 못해요- Attention is all you need](https://minyoungxi.tistory.com/104)
+
 * Vision Transformer
   * [어텐션을 컴퓨터 비전에? - part1](https://minyoungxi.tistory.com/51)
   * [어텐션을 컴퓨터 비전에? - part2](https://minyoungxi.tistory.com/52)
