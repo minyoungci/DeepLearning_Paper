@@ -100,6 +100,8 @@
   * [styleGAN2(CVPR2020) - StyleGAN의 단점ㅇ을 보완해보자](https://minyoungxi.tistory.com/43)
   * Paper : [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/pdf/1912.04958.pdf)
 
+* xLSTM: Extended Long Short-Term Memory
+ * [ LSTM을 트랜스포머처럼 만들어보자고 ?](https://minyoungxi.tistory.com/117)
 ### Medical 
 
 * [Transformers in Medical Image Analysis - A Review](https://publish.obsidian.md/minyoungxi/Paper/medical/Transformers+in+Medical+Image+Analysis+-+A+Review)
