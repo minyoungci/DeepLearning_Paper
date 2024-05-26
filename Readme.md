@@ -66,7 +66,10 @@
 * Survey - Sparse Attention
    * [Sparse한 attention](https://publish.obsidian.md/minyoungxi/Paper/Transformer/survey/Sparse+Attention)
  
-* [BERT - 파인튜닝이 젤 중요해!!](https://publish.obsidian.md/minyoungxi/Paper/Transformer/NLP/BERT+-+Pre-training+of+Deep+Bidirectional+Transformers+for+Language+Understanding) 
+* [BERT - 파인튜닝이 젤 중요해!!](https://publish.obsidian.md/minyoungxi/Paper/Transformer/NLP/BERT+-+Pre-training+of+Deep+Bidirectional+Transformers+for+Language+Understanding)
+
+* ⭐️Mamba: Linear-Time Sequence Modeling with Selective State Spaces⭐️ - 맘바 ! Transformer의 대체자 ?
+  * [Mamba](https://minyoungxi.tistory.com/118)
 
 ### eXplainable Artificial Intelligence
 
